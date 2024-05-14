@@ -82,36 +82,42 @@ Snowflake connector is used to pull data into Tableau.
 Dashboards are created using merged datasets.
 
 
-| **Album_df Data Dictionary** |
-|------------------|----------------------------------------------------|-----------|
-| Column Name      | Description                                        | Data Type |
-|------------------|----------------------------------------------------|-----------|
-| album_id         | Unique identifier for the album                    | String    |
-| album_name       | Name of the album                                  | String    |
-| release_date     | Release date of the album                          | Date      |
-| total_tracks     | Total number of tracks in the album                | Integer   |
-| album_urls       | URL to access the album on Spotify                 | String    |
+**Album_df Data Dictionary**
 
-| **Song_df Data Dictionary** |
-|------------------|----------------------------------------------------|-----------|
-| Column Name      | Description                                        | Data Type |
-|------------------|----------------------------------------------------|-----------|
-| song_id          | Unique identifier for the song                     | String    |
-| song_name        | Name of the song                                   | String    |
-| song_duration    | Duration of the song in milliseconds               | Integer   |
-| song_url         | URL to access the song on Spotify                  | String    |
-| song_popularity  | Popularity score of the song                        | Integer   |
-| song_added       | Date when the song was added                       | Date      |
-| album_id         | Unique identifier for the album                     | String    |
-| artist_id        | Unique identifier for the artist                    | String    |
 
-| **Artist_df Data Dictionary** |
-|------------------|----------------------------------------------------|-----------|
-| Column Name      | Description                                        | Data Type |
-|------------------|----------------------------------------------------|-----------|
-| Artist_id        | Unique identifier for the artist                   | String    |
-| Name             | Name of the artist                                 | String    |
-| external_url     | URL to access the artist on Spotify                | String    |
+| Column Name | Description                                | Data Type |
+|-------------|--------------------------------------------|-----------|
+| album_id    | Unique identifier for the album            | String    |
+| album_name  | Name of the album                          | String    |
+| release_date| Release date of the album                  | Date      |
+| total_tracks| Total number of tracks in the album        | Integer   |
+| album_urls  | URL to access the album on Spotify         | String    |
+
+
+**Song_df Data Dictionary**
+
+
+| Column Name    | Description                                     | Data Type |
+|----------------|-------------------------------------------------|-----------|
+| song_id        | Unique identifier for the song                  | String    |
+| song_name      | Name of the song                                | String    |
+| song_duration  | Duration of the song in milliseconds            | Integer   |
+| song_url       | URL to access the song on Spotify               | String    |
+| song_popularity| Popularity score of the song                     | Integer   |
+| song_added     | Date when the song was added                    | Date      |
+| album_id       | Unique identifier for the album                  | String    |
+| artist_id      | Unique identifier for the artist                 | String    |
+
+
+**Artist_df Data Dictionary**
+
+
+| Column Name  | Description                                  | Data Type |
+|--------------|----------------------------------------------|-----------|
+| Artist_id    | Unique identifier for the artist             | String    |
+| Name         | Name of the artist                           | String    |
+| external_url | URL to access the artist on Spotify          | String    |
+
 
 
 #### Data Analysis:
