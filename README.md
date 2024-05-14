@@ -36,26 +36,26 @@ Merged datasets are used to create insightful dashboards.
 A client passionate about the music industry wants to understand the industry better by collecting real-time data to find patterns in trending songs. The client aims to build a recommendation model based on this analysis.
 
 #### Key Performance Indicators (KPIs):
-> Song Popularity Trends
-> Artist Popularity
-> Album Release Performance
-> User Engagement
-> Conversion Rate
-> Playlist Effectiveness
+- Song Popularity Trends
+- Artist Popularity
+- Album Release Performance
+- User Engagement
+- Conversion Rate
+- Playlist Effectiveness
 
 #### Machine Learning Ideas:
-> Song Recommendation System
-> Artist Similarity Analysis
-> Predictive Modeling for Song Popularity
-> Churn Prediction
-> Genre Classification
+- Song Recommendation System
+- Artist Similarity Analysis
+- Predictive Modeling for Song Popularity
+- Churn Prediction
+- Genre Classification
 
 #### Business Intelligence Ideas:
-> Market Analysis
-> Competitor Analysis
-> User Segmentation
-> Content Licensing Optimization
-> Marketing Campaign Effectiveness
+- Market Analysis
+- Competitor Analysis
+- User Segmentation
+- Content Licensing Optimization
+- Marketing Campaign Effectiveness
 
 #### Objectives:
 The client aims to update a playlist throughout the year on a weekly basis to collect real-time data on top global songs on Spotify. The collected data will be used to build insights and data-driven solutions over the course of one year.
@@ -104,15 +104,19 @@ Column Name	Description	Data Type
 Artist_id	Unique identifier for the artist	String
 Name	Name of the artist	String
 external_url	URL to access the artist on Spotify	String
-Data Analysis:
+
+#### Data Analysis:
 Tableau is used to create interactive dashboards for data analysis.
 
 [Insert screenshots of interactive dashboards in Tableau]
 
-Credits:
+### Credits:
 A big thank you to Darshil Parmar for designing this wonderful course.
 
-Course Link
+https://courses.datavidhya.com/cohort/BpfGFSahpQ?module-id=64f82d541e61cc4beeb0119f&lesson-id=64f8327b6133753c810c6143
+
+<img width="1213" alt="Screenshot 2024-05-14 at 10 26 36" src="https://github.com/NikhilSalv/Melody_In_Clouds/assets/74225565/2ddf4070-899d-4995-b736-04c60cb80fde">
+
 
 This structured and detailed documentation provides a clear overview of the project, its objectives, technical architecture, data dictionary, and data analysis process. It also includes placeholders for inserting screenshots of the interactive dashboards in Tableau.
 
