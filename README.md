@@ -11,11 +11,22 @@ Melody in Cloud is an End-to-End ETL pipeline project leveraging AWS cloud servi
 - Snowflake
 - Tableau
 
+### Technical Architecture of ETL Pipeline:
+
+![Screenshot 2024-05-14 at 02 51 00](https://github.com/NikhilSalv/Melody_In_Clouds/assets/74225565/820b888f-d31c-4e2f-ae4b-9e2172b9e722)
+
 ### Data Extraction:
 
 Utilizing AWS Lambda and the Spotify API, raw data is extracted in JSON format and stored in an AWS S3 Bucket.
 Data extraction Lambda functions are automated using AWS CloudWatch on a weekly basis.
-Data Transformation:
+<img width="1018" alt="Lamda_Data Extraction" src="https://github.com/NikhilSalv/Melody_In_Clouds/assets/74225565/2f0597ce-ed80-40aa-a295-b7a540607402">
+
+<img width="1005" alt="Lambda_DataExtraction_1" src="https://github.com/NikhilSalv/Melody_In_Clouds/assets/74225565/73589ae0-4b01-4d76-b083-14edd1c43451">
+
+
+
+
+### Data Transformation:
 
 Extracted raw data from the S3 bucket is transformed to make it suitable for analysis.
 A Lambda function is triggered to transform the raw data into three separate datasets: Album Data, Song Data, and Artist Data.
@@ -61,7 +72,6 @@ A client passionate about the music industry wants to understand the industry be
 #### Objectives:
 The client aims to update a playlist throughout the year on a weekly basis to collect real-time data on top global songs on Spotify. The collected data will be used to build insights and data-driven solutions over the course of one year.
 
-### Technical Architecture of ETL Pipeline:
 
 
 #### Data Extraction:
