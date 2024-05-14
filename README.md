@@ -125,6 +125,20 @@ Merged datasets are used to create insightful dashboards.
 <img width="649" alt="Tableau_datamerge" src="https://github.com/NikhilSalv/Melody_In_Clouds/assets/74225565/3777e3e4-b951-4df1-b920-669f4e85e9b6">
 
 
+
+![Screenshot 2024-05-13 at 03 07 42](https://github.com/NikhilSalv/Melody_In_Clouds/assets/74225565/cf2767ee-c137-462a-b3bd-50b8b6184926)
+
+
+
+![Screenshot 2024-05-14 at 02 37 58](https://github.com/NikhilSalv/Melody_In_Clouds/assets/74225565/0daa55b3-4a7c-4fc7-85e3-45db18ed7c35)
+
+
+
+![Screenshot 2024-05-14 at 02 39 51](https://github.com/NikhilSalv/Melody_In_Clouds/assets/74225565/0fb8b1e4-b304-40d8-bf8e-8aa628ced498)
+
+
+
+
 ### Credits:
 A big thank you to Darshil Parmar for designing this wonderful course.
 
