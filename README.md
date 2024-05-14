@@ -5,10 +5,10 @@ Melody in Cloud is an End-to-End ETL pipeline project leveraging AWS cloud servi
 
 ### Technologies Used:
 
-> AWS Lambda
-> AWS S3
-> Snowflake
-> Tableau
+- AWS Lambda
+- AWS S3
+- Snowflake
+- Tableau
 
 ### Data Extraction:
 
