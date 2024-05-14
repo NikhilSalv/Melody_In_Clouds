@@ -50,9 +50,6 @@ Utilizing AWS Lambda and the Spotify API, raw data is extracted in JSON format a
 Data extraction Lambda functions are automated using AWS CloudWatch on a weekly basis.
 
 
-<img width="500" alt="Lamda_Data Extraction" src="https://github.com/NikhilSalv/Melody_In_Clouds/assets/74225565/2f0597ce-ed80-40aa-a295-b7a540607402">
-
-
 
 <img width="500" alt="Lambda_DataExtraction_1" src="https://github.com/NikhilSalv/Melody_In_Clouds/assets/74225565/73589ae0-4b01-4d76-b083-14edd1c43451">
 
