@@ -126,16 +126,7 @@ Merged datasets are used to create insightful dashboards.
 
 
 
-![Screenshot 2024-05-13 at 03 07 42](https://github.com/NikhilSalv/Melody_In_Clouds/assets/74225565/cf2767ee-c137-462a-b3bd-50b8b6184926)
-
-
-
-![Screenshot 2024-05-14 at 02 37 58](https://github.com/NikhilSalv/Melody_In_Clouds/assets/74225565/0daa55b3-4a7c-4fc7-85e3-45db18ed7c35)
-
-
-
-![Screenshot 2024-05-14 at 02 39 51](https://github.com/NikhilSalv/Melody_In_Clouds/assets/74225565/0fb8b1e4-b304-40d8-bf8e-8aa628ced498)
-
+![Screenshot 2024-05-14 at 02 39 51](https://github.com/NikhilSalv/Melody_In_Clouds/assets/74225565/092849cd-ada6-4e05-bd21-062d520e21f0)
 
 
 
