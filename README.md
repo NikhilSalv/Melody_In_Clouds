@@ -6,6 +6,7 @@ Melody in Cloud is an End-to-End ETL pipeline project leveraging AWS cloud servi
 ### Technologies Used:
 
 - AWS Lambda
+- AWS CloudWatch
 - AWS S3
 - Snowflake
 - Tableau
