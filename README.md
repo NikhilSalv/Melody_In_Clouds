@@ -3,6 +3,10 @@
 ### Project Overview:
 Melody in Cloud is an End-to-End ETL pipeline project leveraging AWS cloud services. Real-time Spotify data is fetched using the Spotify developer API and loaded into a Snowflake database. Using Tableau, interactive dashboards are built to analyze real-time data.
 
+
+![AWS_Spotify](https://github.com/NikhilSalv/Melody_In_Clouds/assets/74225565/b1f3763a-49ed-4962-acbe-c7d760bed06e)
+
+
 ### Business Problem:
 A client passionate about the music industry wants to understand the industry better by collecting real-time data to find patterns in trending songs. The client aims to build a recommendation model based on this analysis.
 
